@@ -14,6 +14,9 @@ A fast, stable, cross-platform and efficient intranet penetration and port forwa
 [![GitHub license](https://img.shields.io/github/license/editso/fuso)](https://github.com/editso/fuso)
 [![Downloads](https://img.shields.io/github/downloads/editso/fuso/total?label=Release%20Download)](https://github.com/editso/fuso/releases/latest)
 
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
+
 ### 待完善
 1. webhook
 2. web管理面板
@@ -115,3 +118,6 @@ fuc --socks --su --s5p xxx --s5u xxx
 ### 注意
 
 - 本项目所用技术**仅用于学习交流**，**请勿直接用于任何商业场合和非法用途**。
+
+
+
